@@ -1,2 +1,5 @@
 # Double_Linked_List
-Implementation of Double_Linked_List in C lang
+My Implementation of Double_Linked_List in C lang
+by: Yehya Hamdy Shehata
+
+LinkedIn Account: https://www.linkedin.com/in/yehya-shehata/ 
